@@ -28,7 +28,7 @@
     "typescript": "^3.8.2"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^1.8.2",
     "dice-roll": "github:hamologist/dice-roll#master",
     "discord.js": "^11.5.1"
   }
